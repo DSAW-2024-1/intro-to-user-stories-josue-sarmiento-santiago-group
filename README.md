@@ -6,4 +6,4 @@
 #### 2024 - I
 
 
-**Link de Trello con las historias de usuario:**
+**Link de Trello con las historias de usuario: https://trello.com/invite/b/4cYwlgfn/ATTI3de6774c0325c03fd04fc555191934abCF4D0FC5/trabajo-final**
